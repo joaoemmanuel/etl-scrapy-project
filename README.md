@@ -12,7 +12,7 @@ Following the above steps, a <b>Streamlit</b> dashboard for interactive data vis
 
 ## Overall Architecture
 
-![architecture](images\architecture.png)
+![architecture](images/architecture.png)
 
 0. **Data Source:** https://lista.mercadolivre.com.br/tenis-corrida-masculino
 
